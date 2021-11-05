@@ -8,7 +8,7 @@ class Homework2 {
 
 
     public static void main(String[] args) {
-	    System.out.println(within10and20 (10 , 10));
+        System.out.println(within10and20 (10 , 10));
         System.out.println(within10and20(5, 5));
         System.out.println(within10and20(10,5));
         isPositiveorNigative(0);
